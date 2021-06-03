@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2531828d-8f67-484e-9fee-bf76d8bb5601" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Getting Started with GUI/My first GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Getting Started with GUI/My first GUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,19 @@
       <option name="presentableId" value="Default" />
       <updated>1622602004895</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Playing around little!&quot;">
+      <created>1622731473855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622731473855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Playing around little!&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Playing around little!&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1622731472258">
