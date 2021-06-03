@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2531828d-8f67-484e-9fee-bf76d8bb5601" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Getting Started with GUI/My first GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Getting Started with GUI/My first GUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -6,7 +6,7 @@ class MyFirstGUI:
         master.title("A Simple GUI!")
 
         self.label = Label(master, text="This is our first GUI!")
-        self.label.grid(columnspan=2, sticky=W)
+        self.label.grid(columnspan=2, sticky=N)
 
         self.greet_button = Button(master, text="Greet", command=self.greet)
         self.greet_button.grid(row=1)
